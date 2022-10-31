@@ -1,1 +1,1 @@
-# Getting Started with Create React App
+# Getting started with Create React App
